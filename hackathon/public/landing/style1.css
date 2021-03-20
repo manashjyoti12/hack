@@ -1,0 +1,63 @@
+.firstSection
+{
+	height: auto;
+	width: 100%
+}
+.nav-link
+{
+	font-size: 1rem;
+}
+
+
+/*second */
+.secondSection
+{
+	height: auto;
+	width: 100%;
+}
+
+/*third*/
+.thirdSection
+{
+	height: auto;
+	width: 100%;
+}
+
+/*fourth*/
+
+.fourthSection
+{
+	height: auto;
+	width: 100%;
+
+
+}
+.c1
+{
+	margin-top: 3%;
+}
+.r1{
+	
+	margin-top: 5%
+}
+
+
+
+.card
+{
+
+	border-radius: 15%;
+}
+
+.footer
+{
+	padding-top: 5%;
+	
+}
+.footer1
+{
+	height: auto;
+	width: 100%;
+	background-color: #000;
+	color: #fff;
+}
